@@ -1,4 +1,4 @@
-## Supplementary information for the article, **Self-consistent implementation of locally scaled self-interaction-correction method** (https://doi.org/10.1063/5.0130436)
+## Supplementary information for the article, *Self-consistent implementation of locally scaled self-interaction-correction method* (https://doi.org/10.1063/5.0130436)
 
 Molecular and electronic coordinates (i.e. FODs) are included in this repository. 
 
